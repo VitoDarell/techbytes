@@ -35,7 +35,7 @@ const Procedure = () => {
             lg:w-1/2
             "
       >
-        Here’s an A-Z guide to digitalize your business with Techbytes
+        Here&apos;s an A-Z guide to digitalize your business with Techbytes
       </h2>
       <div className="flex flex-col justify-center items-center gap-16 md:gap-5 z-30 pb-44 scale-100">
       <div className="flex flex-row lg:mr-96">
@@ -81,7 +81,7 @@ const Procedure = () => {
               It is time to build
             </h3>
             <p className="opacity-60 md:text-xl">
-              As the final milestone approaches, it’s time to launch your
+              As the final milestone approaches, it&apos;s time to launch your
               software! Get ready to see your software or system become
               available to the public
             </p>
@@ -94,7 +94,7 @@ const Procedure = () => {
               Maintaining is easy
             </h3>
             <p className="opacity-60 md:text-xl">
-              You don’t have to worry about all the challenges you might
+              You don&apos;t have to worry about all the challenges you might
               encounter maintaining the software or system. With Techbytes,
               maintaining is easy.
             </p>
@@ -136,7 +136,7 @@ const Procedure = () => {
             mb-10
             "
       >
-        Here’s why techbytes stands <br /> out above the rest of <br /> the
+        Here&apos;s why techbytes stands <br /> out above the rest of <br /> the
         competitions
       </h2>
       <div className="font-display text-2xl md:text-4xl opacity-80 flex flex-col gap-20 justify-center align-center w-full px-10 lg:px-96">
@@ -156,7 +156,7 @@ const Procedure = () => {
         <p>
           Innovation and Beyond{" "}
           <span className="opacity-60">
-            We’re well-prepared to give you precisely what you require when you
+            We&apos;re well-prepared to give you precisely what you require when you
             need it
           </span>
         </p>
