@@ -58,7 +58,7 @@ const Services = () => {
           <div className="p-7">
             <h3 className="text-4xl font-semibold">ERP Systems</h3>
             <p className="opacity-80">
-              In today's fast-paced business, managing various aspects such as
+              In today&apos;s fast-paced business, managing various aspects such as
               finance, inventory, human resources, and customer relationships
               can quickly become overwhelming. An ERP system is like a smart
               helper for your business. It puts all the important stuff, like
