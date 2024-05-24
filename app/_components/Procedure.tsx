@@ -38,7 +38,7 @@ const Procedure = () => {
         Here’s an A-Z guide to digitalize your business with Techbytes
       </h2>
       <div className="flex flex-col justify-center items-center gap-16 md:gap-5 z-30 pb-44 scale-100">
-      <div className="flex flex-row lg:ml-52">
+      <div className="flex flex-row lg:mr-96">
           <p className="row-span-2 text-[300px] opacity-30 leading-[0.8]">1</p>
           <div className=" lg:w-[450px] w-1/2 flex flex-col justify-end pb-4">
             <h3 className="font-medium text-3xl pr-10 md:text-5xl  capitalize">
